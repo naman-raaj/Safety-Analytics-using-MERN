@@ -1,0 +1,83 @@
+
+.NRF{
+    text-align: center;
+    color:black;
+    font-size: larger;
+  }
+  .mbodi{
+    padding: 0;
+  }
+  
+  .imgg
+  {
+    width:100%;
+    height: 100vh;
+  }
+  
+  .login-module
+  {
+    opacity:.9;
+    background-color:cornflowerblue;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 450px;
+    height: 100vh;
+  }
+  
+  .inner
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 85px;
+    gap: 11px;
+  }
+  
+  .btnn
+  {
+    width: 50%;
+    border: none;
+    background-color: yellow;
+    height: 40px;
+  }
+  
+  .inner input{
+    width: 100%;
+    border: none;
+    margin-right: 20px;
+  }
+  .text{
+    color:aliceblue;
+    margin-bottom: 90px;
+    
+  }
+  .nw{
+  text-align: center;
+  color: aliceblue;
+  margin-left: 120px;
+  margin-top: 20px;
+  
+  }
+  .fontemail { 
+    position: relative; 
+  } 
+  
+  .fontemail i{ 
+    position: absolute; 
+    left: 1px; 
+    top: 18px;  
+    color: black; 
+  } 
+  
+  .fontpassword { 
+    position: relative; 
+  } 
+  
+  .fontpassword i{ 
+    position: absolute; 
+     left: 1px; 
+    top: 18px;  
+    color:black; 
+  } 

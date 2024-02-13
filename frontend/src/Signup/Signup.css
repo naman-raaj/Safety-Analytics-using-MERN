@@ -1,0 +1,65 @@
+
+.signup {
+    background-image: url("../mybg.avif");
+      min-height :560px;;
+      background-position:right;
+      background-repeat: no-repeat;
+      background-size:auto;
+      position:static;
+    
+  }
+  .mbodi2{
+    padding: 0;
+  }
+  .imgg2
+  {
+    width:100%;
+    height: 100vh;
+  }
+  .signupmodule
+  {
+    opacity:.9;
+    background-color:cornflowerblue;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 450px;
+    height: 100vh;
+  }
+  .inner2
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+    gap: 5px;
+  }
+  .btn2
+{
+  width: 50%;
+  border: none;
+  background-color: yellow;
+}
+.inner2 input{
+    width: 50%;
+    border: none;
+  }
+  .text{
+    color:aliceblue
+  }
+  
+
+
+
+
+  /* .form2{
+      padding: 7px;
+      width: 500px;
+     margin-left: 50px;
+     margin-top: 25px;
+     position: relative;
+  } */
+  .text{
+      text-align: center;
+  }
